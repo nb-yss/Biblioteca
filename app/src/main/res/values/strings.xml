@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Aula 5</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="nao_tem_cadastro">Não tem cadastro?</string>
+    <string name="foto_user">Foto do Usuarío</string>
 </resources>

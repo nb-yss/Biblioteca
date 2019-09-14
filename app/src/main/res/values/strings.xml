@@ -5,4 +5,15 @@
     <string name="entrar">Entrar</string>
     <string name="nao_tem_cadastro">Não tem cadastro?</string>
     <string name="foto_user">Foto do Usuarío</string>
+    <string name="telef">Telefone</string>
+    <string name="nome">Nome</string>
+    <string name="conf_senha">Confirmar Senha</string>
+    <string name="salvar">Salvar</string>
+
+    <string name="msg_campo_obrigatorio">
+        Este campo é obigatório
+    </string>
+    <string name="msg_registro_salvo">
+       Registro salvo com sucesso!
+    </string>
 </resources>
